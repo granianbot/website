@@ -1,3 +1,3 @@
 # Granian
 
-Web Site of the Granian bot
+Website of the Granian bot
